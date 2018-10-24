@@ -11,7 +11,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 's'
+      msg: '项目模拟'
     }
   }
 }
